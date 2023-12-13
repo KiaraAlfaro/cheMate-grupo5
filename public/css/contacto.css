@@ -1,0 +1,87 @@
+main{
+    background-color: #58644e ;
+}
+.contenedor-port{
+
+    background-image: url(/img/portada/portada-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.cnt-2-port{
+    background-color: rgba(0, 0, 0, 0.514);
+    height: 400px;
+    width: 100%;
+    padding-top: 9%;
+    
+}
+
+.link-home{
+    font-weight: bolder;
+}
+
+.icon-inf{
+
+    color: black;
+    background-color:  #faf1dc ;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 30px;
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    font-weight: bolder;
+}
+
+.cnt-inf{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.titulo-inf{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 5px ;
+}
+
+.desc-inf{
+    color: rgba(255, 255, 255, 0.603);
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+}
+
+.secc-contacto{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.mapa, .formulario, .inf-iconos, .text-msj{
+    width: 900px;
+    margin-top: 50px;
+}
+
+.formulario{
+    margin-bottom: 50px;
+}
+
+.btn-enviar{
+    background-color:  #faf1dc ;
+    padding: 10px;
+}
+
+.btn-enviar:hover{
+    background-color:  #faf1dc ;
+    color:   #58644e;
+    font-weight: bolder;
+   
+}

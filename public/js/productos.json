@@ -1,0 +1,258 @@
+[
+    {
+        "id": "mate-01",
+        "titulo": "Mate 01",
+        "imagen": "/img/mates/01.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "descripcion": "Descubre la autenticidad de la tradición sudamericana con nuestro Mate de Madera Artesanal. Cada pieza, elaborada con maderas seleccionadas a mano, es más que un recipiente; es una obra de arte funcional.",
+        "precio": 1000
+    },
+    {
+        "id": "mate-02",
+        "titulo": "Mate 02",
+        "imagen": "/img/mates/02.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "descripcion": "Descubre la autenticidad de la tradición sudamericana con nuestro Mate de Madera Artesanal. Cada pieza, elaborada con maderas seleccionadas a mano, es más que un recipiente; es una obra de arte funcional.",
+        "precio": 1000
+    },
+    {
+        "id": "mate-03",
+        "titulo": "Mate 03",
+        "imagen": "/img/mates/03.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "descripcion": "Descubre la autenticidad de la tradición sudamericana con nuestro Mate de Madera Artesanal. Cada pieza, elaborada con maderas seleccionadas a mano, es más que un recipiente; es una obra de arte funcional.",
+        "precio": 1000
+    },
+    {
+        "id": "mate-04",
+        "titulo": "Mate 04",
+        "imagen": "./img/mates/04.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "descripcion": "Descubre la autenticidad de la tradición sudamericana con nuestro Mate de Madera Artesanal. Cada pieza, elaborada con maderas seleccionadas a mano, es más que un recipiente; es una obra de arte funcional.",
+        "precio": 1000
+    },
+    {
+        "id": "mate-05",
+        "titulo": "Mate 05",
+        "imagen": "./img/mates/05.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "mates"
+        },
+        "descripcion": "Descubre la autenticidad de la tradición sudamericana con nuestro Mate de Madera Artesanal. Cada pieza, elaborada con maderas seleccionadas a mano, es más que un recipiente; es una obra de arte funcional.",
+        "precio": 1000
+    },
+    {
+        "id": "termo-01",
+        "titulo": "Termo Waterdog",
+        "imagen": "./img/termos/01.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "termo-02",
+        "titulo": "Termo Stanley Rosa",
+        "imagen": "./img/termos/02.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "termo-03",
+        "titulo": "Termo Stanley Azul",
+        "imagen": "./img/termos/03.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "termo-04",
+        "titulo": "Termo Stanley Cobre",
+        "imagen": "./img/termos/04.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+
+        "precio": 1000
+    },
+    {
+        "id": "termo-05",
+        "titulo": "Termo Stanley Blanco",
+        "imagen": "./img/termos/05.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "termo-06",
+        "titulo": "Termos ",
+        "imagen": "./img/termos/06.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "termo-07",
+        "titulo": "Termo Termolar Marron",
+        "imagen": "./img/termos/07.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "termo-08",
+        "titulo": "Termo Lumilagro Argentina",
+        "imagen": "./img/termos/08.jpg",
+        "categoria": {
+            "nombre": "Termos",
+            "id": "termos"
+        },
+        "descripcion": "Presentamos nuestro Termo de Acero Inoxidable: Elegancia y Rendimiento, una fusión de tradición sudamericana y diseño moderno. Cada termo, cuidadosamente elaborado con acero inoxidable de alta calidad",
+        "precio": 1000
+    },
+    {
+        "id": "bombilla-01",
+        "titulo": "Bombilla 01",
+        "imagen": "./img/bombillas/01.jpeg",
+        "categoria": {
+            "nombre": "Bombillas",
+            "id": "bombillas"
+        },
+        "descripcion": "Bombillas de Acero Inoxidable: Elegancia y Comodidad. Cada bombilla es una síntesis de diseño refinado y funcionalidad, elevando tu experiencia de mate a nuevas alturas.",
+        "precio": 1000
+    },
+    {
+        "id": "bombilla-02",
+        "titulo": "Bombilla 02",
+        "imagen": "./img/bombillas/02.jpg",
+        "categoria": {
+            "nombre": "Bombillas",
+            "id": "bombillas"
+        },
+        "descripcion": "Bombillas de Acero Inoxidable: Elegancia y Comodidad. Cada bombilla es una síntesis de diseño refinado y funcionalidad, elevando tu experiencia de mate a nuevas alturas.",
+        "precio": 1000
+    },
+    {
+        "id": "bombilla-03",
+        "titulo": "Bombilla 03",
+        "imagen": "./img/bombillas/03.jpg",
+        "categoria": {
+            "nombre": "Bombillas",
+            "id": "bombillas"
+        },
+        "descripcion": "Bombillas de Acero Inoxidable: Elegancia y Comodidad. Cada bombilla es una síntesis de diseño refinado y funcionalidad, elevando tu experiencia de mate a nuevas alturas.",
+        "precio": 1000
+    },
+    {
+        "id": "bombilla-04",
+        "titulo": "Bombilla 04",
+        "imagen": "./img/bombillas/04.jpg",
+        "categoria": {
+            "nombre": "Bombillas",
+            "id": "bombillas"
+        },
+        "descripcion": "Bombillas de Acero Inoxidable: Elegancia y Comodidad. Cada bombilla es una síntesis de diseño refinado y funcionalidad, elevando tu experiencia de mate a nuevas alturas.",
+        "precio": 1000
+    },
+    {
+        "id": "bombilla-05",
+        "titulo": "Bombilla 05",
+        "imagen": "./img/bombillas/04.jpg",
+        "categoria": {
+            "nombre": "Bombillas",
+            "id": "bombillas"
+        },
+        "descripcion": "Bombillas de Acero Inoxidable: Elegancia y Comodidad. Cada bombilla es una síntesis de diseño refinado y funcionalidad, elevando tu experiencia de mate a nuevas alturas.",
+        "precio": 1000
+    },
+    {
+        "id": "matero-01",
+        "titulo": "Matero 01",
+        "imagen": "./img/materos/01.png",
+        "categoria": {
+            "nombre": "Materos",
+            "id": "materos"
+        },
+        "descripcion":"Estilo, Comodidad y Tradición en Movimiento. Diseñadas para acompañar tus aventuras, estas mochilas ofrecen la solución perfecta para llevar contigo todo lo necesario para disfrutar de tu mate en cualquier lugar",
+        "precio": 1000
+    },
+    {
+        "id": "matero-02",
+        "titulo": "Matero 02",
+        "imagen": "/img/materos/02.png",
+        "categoria": {
+            "nombre": "Materos",
+            "id": "materos"
+        },
+        "descripcion":"Estilo, Comodidad y Tradición en Movimiento. Diseñadas para acompañar tus aventuras, estas mochilas ofrecen la solución perfecta para llevar contigo todo lo necesario para disfrutar de tu mate en cualquier lugar",
+        "precio": 1000
+    },
+    {
+        "id": "matero-03",
+        "titulo": "Matero 03",
+        "imagen": "./img/materos/03.png",
+        "categoria": {
+            "nombre": "Materos",
+            "id": "materos"
+        },
+        "descripcion":"Estilo, Comodidad y Tradición en Movimiento. Diseñadas para acompañar tus aventuras, estas mochilas ofrecen la solución perfecta para llevar contigo todo lo necesario para disfrutar de tu mate en cualquier lugar",
+        "precio": 1000
+    },
+    {
+        "id": "matero-04",
+        "titulo": "Matero 04",
+        "imagen": "/img/materos/04.png",
+        "categoria": {
+            "nombre": "Materos",
+            "id": "materos"
+        },
+        "descripcion":"Estilo, Comodidad y Tradición en Movimiento. Diseñadas para acompañar tus aventuras, estas mochilas ofrecen la solución perfecta para llevar contigo todo lo necesario para disfrutar de tu mate en cualquier lugar",
+        "precio": 1000
+    },
+    {
+        "id": "matero-05",
+        "titulo": "Matero 05",
+        "imagen": "./img/materos/05.png",
+        "categoria": {
+            "nombre": "Materos",
+            "id": "materos"
+        },
+        "descripcion":"Estilo, Comodidad y Tradición en Movimiento. Diseñadas para acompañar tus aventuras, estas mochilas ofrecen la solución perfecta para llevar contigo todo lo necesario para disfrutar de tu mate en cualquier lugar",
+        "precio": 1000
+    }
+
+
+]
